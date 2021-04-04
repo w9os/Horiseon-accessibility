@@ -4,7 +4,7 @@ In this project, the codebase of **Horiseon** is optmized to follow accessibilit
 
 #### Horiseon
 
-![horiseon webpage](/assets/horiseon-web1.png)
+![Screen Shot 2021-04-03 at 11.57.22 PM](https://i.imgur.com/4Ejusj8.jpg)
 
 
 ## Semantice HTML elements
@@ -13,11 +13,11 @@ Previously the code consisted of mostly  `<div>` elements. After closely analyiz
 
 ##### Before
 
-![HTML starter code](/assets/starterhtml.png)
+![starterhtml](https://i.imgur.com/3ifC4B2.png)
 
 #### AFter 
 
-![HTML organized code](/assets/hwhtml.png)
+![hwhtml](https://i.imgur.com/TOPOLL3.png)
 
 ## Link
 
