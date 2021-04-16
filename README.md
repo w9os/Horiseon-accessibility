@@ -23,6 +23,6 @@ Previously the code consisted of mostly  `<div>` elements. After closely analyiz
 
 The final product is a much more clean and organized code that allows the page to run succesfully
 
-[Welcome to Horiseon](http://127.0.0.1:5501/Develop/index.html)
+[Welcome to Horiseon](file:///Users/user/development/Horiseon-accessibility/Develop/index.html)
 
 
