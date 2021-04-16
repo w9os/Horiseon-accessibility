@@ -15,7 +15,7 @@ Previously the code consisted of mostly  `<div>` elements. After closely analyiz
 
 ![starterhtml](https://i.imgur.com/3ifC4B2.png)
 
-#### AFter 
+#### After 
 
 ![hwhtml](https://i.imgur.com/TOPOLL3.png)
 
@@ -23,6 +23,7 @@ Previously the code consisted of mostly  `<div>` elements. After closely analyiz
 
 The final product is a much more clean and organized code that allows the page to run succesfully
 
-[Welcome to Horiseon](file:///Users/user/development/Horiseon-accessibility/Develop/index.html)
+<file:///Users/user/development/Horiseon-accessibility/Develop/index.html>
+
 
 
