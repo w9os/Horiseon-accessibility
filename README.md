@@ -23,7 +23,8 @@ Previously the code consisted of mostly  `<div>` elements. After closely analyiz
 
 The final product is a much more clean and organized code that allows the page to run succesfully
 
-<file:///Users/user/development/Horiseon-accessibility/Develop/index.html>
 
+
+<https://w9os.github.io/Horiseon-accessibility/index.html>
 
 
